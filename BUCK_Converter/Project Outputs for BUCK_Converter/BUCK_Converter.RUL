@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: C:\Users\Mohamed A. Ebrahem\Desktop\BUCK_Converter\BUCK_Converter\BUCK_Converter.PcbDoc
+RuleKind=Clearance|RuleName=INPUT_GND_NOISE|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=ICs_PGND_INPQINP|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=ICs_HG_INPQ2|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=ICs_BST_HG|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=IC_BST_LG|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=ICs_PGND_ILIM|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=POW_GND_NOISE|Scope=Board|Minimum=19.69
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [BUCK_Converter.PrjPcb]
+   Generated File[Pick Place for BUCK_Converter.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:10:46 PM On 9/23/2021

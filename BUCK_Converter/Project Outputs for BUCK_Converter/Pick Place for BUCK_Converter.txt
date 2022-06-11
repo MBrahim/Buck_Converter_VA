@@ -1,0 +1,33 @@
+Altium Designer Pick and Place Locations
+C:\Users\Mohamed A. Ebrahem\Desktop\BUCK_Converter\BUCK_Converter\Project Outputs for BUCK_Converter\Pick Place for BUCK_Converter.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/09/21
+Time:       23:10
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment     Layer    Footprint      Center-X(mm) Center-Y(mm) Rotation Description                                                                                        
+R4         20k         TopLayer pot_smd        6.4520       6.9850       90       "20 kOhms 0.5W, 1/2W Gull Wing Surface Mount Trimmer Potentiometer Cermet 1.0 Turn Top Adjustment" 
+Q3         LM3150MH    TopLayer LM3150MH       21.2090      32.5120      0        ""                                                                                                 
+D1         LED2        TopLayer 3.2X1.6X1.1    38.4810      4.0640       90       "Typical RED, GREEN, YELLOW, AMBER GaAs LED"                                                       
+R5         330         TopLayer 1206           34.4170      3.6860       90       ""                                                                                                 
+R3         75K         TopLayer 1206           6.8610       16.5100      0        ""                                                                                                 
+R2         140K        TopLayer 1206           28.4480      28.1970      90       ""                                                                                                 
+R1         140K        TopLayer 1206           6.9820       26.2890      0        ""                                                                                                 
+Q2         CSD18540Q5B TopLayer PCBComponent_1 33.8988      25.1128      270      ""                                                                                                 
+Q1         CSD18540Q5B TopLayer PCBComponent_1 33.8938      33.2818      270      ""                                                                                                 
+P2         "Header 2"  TopLayer HDR1X2         38.4810      10.2870      270      "Header, 2-Pin"                                                                                    
+P1         "Header 2"  TopLayer HDR1X2         4.5720       32.6390      90       "Header, 2-Pin"                                                                                    
+L1         4.7uH       TopLayer coill          34.5440      16.7000      270      "FIXED IND 4.7UH 3A 40.3 MOHM SMD"                                                                 
+C8         4700uF      TopLayer CAp            20.2565      12.6000      270      "CAP ALUM 4700UF 20% 10V SMD"                                                                      
+C7         470nF       TopLayer 1206_cap       6.9610       19.9390      0        ""                                                                                                 
+C6         470nF       TopLayer 1206_cap       28.7020      35.2820      270      ""                                                                                                 
+C5         2.2uF       TopLayer 1206_cap       19.6610      38.4810      180      ""                                                                                                 
+C4         10uF        TopLayer 1206_cap       6.9610       23.2410      0        ""                                                                                                 
+C3         0.1uF       TopLayer 1206_cap       9.1440       33.2980      270      ""                                                                                                 
+C2         10uF        TopLayer 1206_cap       11.6840      33.2980      90       ""                                                                                                 
+C1         10uF        TopLayer 1206_cap       14.2240      33.2980      90       ""                                                                                                 
